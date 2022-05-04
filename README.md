@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm How Suen👋
+AY22/23 Year 2 NUS Computer Science Undergraduate
 
 <!--
 **HowSuen/HowSuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
