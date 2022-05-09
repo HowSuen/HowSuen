@@ -1,2 +1,2 @@
 ### Hi there, I'm How Suen👋
-Year 2 NUS Computer Science Undergraduate
+Year 1 NUS Computer Science Undergraduate
